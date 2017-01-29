@@ -1,0 +1,18 @@
+baseurl = "http://fleeting.penwatch.net/signals/"
+title = "MineMaarten's Signals"
+#if not set copyright, default copyright template will be applied
+copyright = "Reformatted for web from <a href=\"https://github.com/MineMaarten/Signals\">https://github.com/MineMaarten/Signals</a>"
+theme = "nofancy"
+MetaDataFormat = "yaml"
+relativeURLs = "true"
+
+[params]
+	highlight="github"
+	# Controls what items are listed in the top nav menu
+	# "none", or "categories"
+	# If you have too many categories to fit in the top nav menu, set this to "none"
+	topmenu="none"
+
+[author]
+    name = ""
+    gaID = ""
