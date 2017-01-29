@@ -7,7 +7,7 @@ MetaDataFormat = "yaml"
 relativeURLs = "true"
 
 [params]
-	highlight="github"
+	highlight=""
 	# Controls what items are listed in the top nav menu
 	# "none", or "categories"
 	# If you have too many categories to fit in the top nav menu, set this to "none"
