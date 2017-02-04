@@ -4,7 +4,9 @@ categories:
 date: 2017-01-30T01:45:16+08:00
 
 title: Block Signal
-url: block_signal
+menu:
+  main:
+    parent: 'Blocks'
 ---
 
 A Block Signal is a block used to control rail traffic on a rail network. If you are familiar with either OpenTTD or Factorio rail signaling, you will know how this works.

@@ -4,7 +4,9 @@ categories:
 date: 2017-01-30T01:44:11+08:00
 
 title: Cart Engine
-url: cart_engine
+menu:
+  main:
+    parent: 'Item'
 ---
 
 A Cart Engine is a cart upgrade that can be applied by right clicking it on any cart. When applied, this gives the cart an internal motor, which is powered by any fuel that can be used in a Furnace. Fuel is only used when the cart is in motion. Note that the engine only will be turned on when the cart has enough speed. An initial nudge is required.

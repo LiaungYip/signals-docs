@@ -4,7 +4,9 @@ categories:
 date: 2017-01-30T01:45:21+08:00
 
 title: Cart Hopper
-url: cart_hopper
+menu:
+  main:
+    parent: 'Blocks'
 ---
 
 A cart hopper acts as a Hopper, specifically aimed at working with carts. It has filtering capabilities as well.

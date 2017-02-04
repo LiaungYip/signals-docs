@@ -4,7 +4,9 @@ categories:
 date: 2017-01-30T01:45:33+08:00
 
 title: Station Marker
-url: station_marker
+menu:
+  main:
+    parent: 'Blocks'
 ---
 
 A Station Marker is a block that is usually placed adjacent to a rail, and serves as a destination for carts to route to. By right-clicking a Station Marker you can rename the destination.

@@ -4,7 +4,9 @@ categories:
 date: 2017-01-30T01:44:25+08:00
 
 title: Rail Network Controller
-url: rail_network_controller
+menu:
+  main:
+    parent: 'Item'
 ---
 
 A Rail Network Controller allows you to monitor your rail networks. Simply right-click the Rail Network Controller.

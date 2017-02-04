@@ -4,7 +4,9 @@ categories:
 date: 2017-01-30T01:44:19+08:00
 
 title: Rail Configurator
-url: rail_configurator
+menu:
+  main:
+    parent: 'Item'
 ---
 
 A Rail Configurator is the 'wrench' of Signals. It can be used to do various Signals-related tasks.

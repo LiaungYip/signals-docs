@@ -4,7 +4,9 @@ categories:
 date: 2017-01-30T01:45:29+08:00
 
 title: Path Signal
-url: path_signal
+menu:
+  main:
+    parent: 'Blocks'
 ---
 
 A Path Signal is an enhanced [Block Signal](/block_signal). If you do not know what a Block Signal is it is strongly recommended to read this first.
