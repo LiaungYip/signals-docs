@@ -2,7 +2,7 @@ baseurl = "https://fleeting.penwatch.net/signals/"
 title = "MineMaarten's Signals"
 #if not set copyright, default copyright template will be applied
 copyright = "Reformatted for web from <a href=\"https://github.com/MineMaarten/Signals\">https://github.com/MineMaarten/Signals</a>"
-theme = "nofancy"
+theme = "plain-docs"
 MetaDataFormat = "yaml"
 relativeURLs = "true"
 canonifyURLs = "true"
